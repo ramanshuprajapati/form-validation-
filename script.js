@@ -10,7 +10,7 @@ let passwordError = document.querySelector('#passwordError');
 
 form.addEventListener('submit',function(dts){
     dts.preventDefault();
-~
+
     nameError.textContent = "";
     emailError.textContent = "";
     passwordError.textContent = "";
