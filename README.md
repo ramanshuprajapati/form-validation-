@@ -20,6 +20,11 @@ A simple and clean **Sign-Up Form** built using **HTML**, **CSS**, and **JavaScr
 
 - **HTML5**
 - **CSS3**
-- ** JavaScript (ES6)**
+-  JavaScript (ES6)
+
+## 📸 Screenshot
+
+![Form Screenshot](screenshot.png)-->
+
 
 
